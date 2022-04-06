@@ -1,5 +1,5 @@
 # database_lab
-Repository containing some basic SQL codes.
+Repository containing some basic database queries.
 <br>
-Software used: Oracle SQL Developer. Which can be downloaded from [here](https://www.oracle.com/tools/downloads/sqldev-downloads.html).
-<br>
+Software used: MY SQL, MY SQL Workbench, Oracle SQL Developer.
+
